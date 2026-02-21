@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Bad Bad",
+  "base_artist": "Awich",
+  "createdAt": "2026-02-21T11:45:39.622415Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Bad Bad",
+      "artist": "Young Thug feat. Lil Baby",
+      "has_synced": true,
+      "path": "select/01_Bad_Bad_Bad_Young_Thug_feat._Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Bad Bad (feat. Lil Baby)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/02_Bad_Bad_Bad_(feat._Lil_Baby)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Bad World",
+      "artist": "Guster",
+      "has_synced": true,
+      "path": "select/03_Bad_Bad_World_Guster.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Bad Levi Brown",
+      "artist": "Portugal. The Man",
+      "has_synced": true,
+      "path": "select/04_Bad_Bad_Levi_Brown_Portugal._The_Man.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Bad One",
+      "artist": "Meredith Brooks",
+      "has_synced": false,
+      "path": "select/05_Bad_Bad_One_Meredith_Brooks.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Bad Man",
+      "artist": "Uriah Heep",
+      "has_synced": false,
+      "path": "select/06_Bad_Bad_Man_Uriah_Heep.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Bad Sign",
+      "artist": "Joe Cocker",
+      "has_synced": true,
+      "path": "select/07_Bad_Bad_Sign_Joe_Cocker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Bad Boy",
+      "artist": "Nazareth",
+      "has_synced": true,
+      "path": "select/08_Bad_Bad_Boy_Nazareth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Bad Girls",
+      "artist": "Fastway",
+      "has_synced": false,
+      "path": "select/09_Bad_Bad_Girls_Fastway.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I've Been a Bad, Bad Boy",
+      "artist": "Paul Jones",
+      "has_synced": true,
+      "path": "select/10_I've_Been_a_Bad,_Bad_Boy_Paul_Jones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I've Been A Bad Bad Boy",
+      "artist": "Paul Jones",
+      "has_synced": true,
+      "path": "select/11_I've_Been_A_Bad_Bad_Boy_Paul_Jones.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Baby Did A Bad Bad Thing - Remastered Album Version",
+      "artist": "Chris Isaak",
+      "has_synced": false,
+      "path": "select/12_Baby_Did_A_Bad_Bad_Thing_-_Remastered_Album_Version_Chris_Isaak.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby Did A Bad Bad Thing  (Remastered Album Version)",
+      "artist": "Chris Isaak",
+      "has_synced": false,
+      "path": "select/13_Baby_Did_A_Bad_Bad_Thing_(Remastered_Album_Version)_Chris_Isaak.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Bad News",
+      "artist": "Leon Bridges",
+      "has_synced": true,
+      "path": "select/14_Bad_Bad_News_Leon_Bridges.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad, Bad Leroy Brown",
+      "artist": "Jim Croce",
+      "has_synced": true,
+      "path": "select/15_Bad,_Bad_Leroy_Brown_Jim_Croce.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bad, Bad Leroy Brown",
+      "artist": "Jim Croce",
+      "has_synced": true,
+      "path": "select/16_Bad,_Bad_Leroy_Brown_Jim_Croce.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Bad",
+      "artist": "Awich",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Bad_Awich.txt"
+    }
+  ]
+}
